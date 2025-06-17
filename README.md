@@ -14,7 +14,7 @@
 ## 🔧 Technologies & Tools
 
 ### Frameworks & Libraries  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-333?style=flat-square&logo=next.js&logoColor=white)  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
